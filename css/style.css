@@ -464,10 +464,10 @@ nav.small {
 }
 /* 11 Team / Skills
 ----------------------------------------------------------------------------- */
-.team h4,.skill h4 {
+.accolades h4,.skill h4 {
 	font-family: 'Roboto Slab', serif;
 }
-.team h5 {
+.accolades h5 {
 	color: #9aa7af;
 }
 .skill-chart {
